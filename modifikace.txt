@@ -1,0 +1,9 @@
+## tento dokument bude opsahovat veskere modifikace, ktere se lisi od standardni tiskarny REBEL II. 
+
+# Elektronika
+20/08/2018
+Vymena tranzistoru Q1 (P55NF06L) (18mohms) za IPP041N12N3 [ze skrine volnych soucastek]
+20/08/2018 -
+PSU 5V na arduinu vymenen.
+
+	
