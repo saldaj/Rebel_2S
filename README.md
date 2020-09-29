@@ -1,5 +1,5 @@
 # Rebel_2S
-This is the tracking place for FW and build documents of one 3D printer - Based on the Rebel II printer
+This is the tracking place for build documents of one 3D printer - Based on the Rebel II printer
 
 Jedna se o 3D tiskarnu Rebel II, ktera byla smontovana na zaklade dostupnych tipu a manualu. Vetsinu materialu se pokusim sem umistit, aby bylo vse pohromade.
 
